@@ -2663,11 +2663,3 @@ body {
   flex: 1;              /* Makes tabs equal width */
   text-align: center;   /* Centers labels */
 }
-.nav {
-    display: flex;
-    gap: 20px;
-}
-
-
-
-
