@@ -155,6 +155,7 @@ body {
 /* Navigation Tabs */
 .nav-tabs {
     display: flex;
+    gap: 20px;
     background: white;
     border-bottom: 1px solid #e2e8f0;
     overflow-x: auto;
@@ -2663,3 +2664,4 @@ body {
   flex: 1;              /* Makes tabs equal width */
   text-align: center;   /* Centers labels */
 }
+
