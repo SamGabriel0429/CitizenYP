@@ -2653,7 +2653,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 10px 15px;
-  gap: 10px;
+  gap: 20px;
   flex-wrap: wrap; /* FIXES mobile overlapping */
 }
 
@@ -2663,6 +2663,7 @@ body {
   flex: 1;              /* Makes tabs equal width */
   text-align: center;   /* Centers labels */
 }
+
 
 
 
